@@ -6,7 +6,7 @@
 	
 If it's working, you should see something like this on your desktop:
 
-![](/home/phm/Keep/current-code/woodcoin-status/package/repo/Screenshot_2017-08-15_16-25-15.png) 
+![](https://github.com/paulmadore/woodcoin-status/blob/master/Screenshot_2017-08-15_16-25-15.png) 
 
 Improvements to come. 
 
